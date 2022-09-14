@@ -1,4 +1,4 @@
-# renku-project-template
+# DNF Coding Club Renku Base image
 
 A repository of base templates for new Renku projects. The next sections outline
 what different files in the template are used for.
