@@ -2,10 +2,10 @@ name: "base"
 channels:
   - defaults
 dependencies:
-- numpy
-- scipy
-- pandas
-- scikit-image
-- matplotlib
-- scikit-learn
+  - numpy
+  - scipy
+  - pandas
+  - scikit-image
+  - matplotlib
+  - scikit-learn
 prefix: "/opt/conda"
